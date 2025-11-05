@@ -1,0 +1,9 @@
+Task,Description,Status,Priority,Owner Type,Est Hours,Dependencies,Notes,AI Agent Recommendation
+Create color palette templates,"Define HEX colors: #1F4E79 #0078D7 #2B2B40 #F2F6FA #009999 #FFC857",Not Started,High,AI Agent (Bob Ross),2,,Use Bob Ross Agent + Canva API,Bob Ross Image 3D Makers
+Generate visual assets,"Molecular structures network diagrams cell imagery",Not Started,High,AI Agent (Bob Ross),3,Color palette,DALL-E/Gemini generation,Bob Ross Image 3D Makers
+Create PowerPoint templates,"Segoe UI font conference/webinar templates",Not Started,High,AI Agent,2,"Color palette Visual assets",Python python-pptx,Codex or GitHub Copilot
+Create TPT product covers,Branded cover templates for TPT products,Not Started,High,AI Agent (Bob Ross),2,Color palette,Canva API automation,Bob Ross Image 3D Makers
+Store assets in Google Drive,Organize all brand assets in Drive folder,Not Started,Medium,Automation,1,All assets created,Google Drive MCP,Getting to the Google
+Create brand style guide PDF,"HEX/RGB/CMYK codes font styles usage rules",Not Started,High,AI Agent,3,All templates,Google Docs MCP,Getting to the Google
+Develop branded graphic library,"Header banners icons (NGSS Tips etc.)",Not Started,Medium,AI Agent (Bob Ross),2,Style guide,,Bob Ross Image 3D Makers
+Create Micro Mayhem mascot,Character for materials to add friendly touch,Not Started,Low,AI Agent (Bob Ross),2,,DALL-E generation,Bob Ross Image 3D Makers
